@@ -6,7 +6,7 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponentTitulo {
-  title = '¡Hola!, ¿como estás?  ,  ¡Mi nombre es, Miguel Verdejo!, ¡Y vivo en Torrente, Valencia! ';
+  title = '¡Hola!, ¿como estás?  aaa,  ¡Mi nombre es, Miguel Verdejo!, ¡Y vivo en Torrente, Valencia! ';
 
 }
 
